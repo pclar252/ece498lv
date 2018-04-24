@@ -11,6 +11,7 @@ public:
 
 	void createFromList(ListElement*, int, int);
 	vector<Node> adjacencyList(Node);
+	
 };
 
 class Node {
