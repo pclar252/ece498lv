@@ -1,7 +1,3 @@
-c  The total flow:
-s 780
-
-c flow values:
 f 0 1 0
 f 1 7 0
 f 1 2 0
